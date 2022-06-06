@@ -42,3 +42,6 @@
 
 + [Personal web](https://chen-huayi.github.io/myWeb/)  
 + Email: huayi.chen@outlook.com  
+
+</br>
+<img src="https://komarev.com/ghpvc/?username=chen-huayi" />
