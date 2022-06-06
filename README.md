@@ -8,6 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<!-- 
 <div align="center">
   <p>
     <img src="https://img.shields.io/github/followers/Chen-Huayi" />
@@ -44,4 +45,4 @@
 + Email: huayi.chen@outlook.com  
 
 </br>
-<img src="https://komarev.com/ghpvc/?username=chen-huayi" />
+<img src="https://komarev.com/ghpvc/?username=chen-huayi" /> -->
