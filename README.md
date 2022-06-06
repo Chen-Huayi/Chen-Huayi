@@ -1,4 +1,12 @@
 ### Hi there 👋
+<!-- - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
 <div align="center">
   <p>
@@ -18,23 +26,19 @@
   </p>
 </div>
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+**Languages and Tools:**  
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/github.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/idea.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/visual-studio-code.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/android.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/java.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/c.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/python.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/html.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/js.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/css.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/react.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/vue.png" alt="bash" width="40" height="40"/></code>
 
-[Personal web](https://chen-huayi.github.io/myWeb/)  
-
-## Get in touch
++ [Personal web](https://chen-huayi.github.io/myWeb/)  
 + Email: huayi.chen@outlook.com  
-+ WeChat: 
-
-<div>
-  <p>
-    <img src="https://github.com/Chen-Huayi/myWeb/blob/main/images/wx.png" width="300" />
-  </p>
-</div>
