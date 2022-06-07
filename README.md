@@ -1,14 +1,18 @@
 ### Hi there 👋
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
-<!-- 
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 🌱 I’m currently learning ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 🔗 How to reach me: [LinkedIn](https://www.linkedin.com/in/huayi-chen/)  
+- ✉️ Contact me on: huayi.chen@outlook.com  
+- 🔍 My Personal website: [Chy](https://chen-huayi.github.io/)  
+<!-- - 📫 How to reach me:    -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ...  -->
+
+
 <div align="center">
   <p>
     <img src="https://img.shields.io/github/followers/Chen-Huayi" />
@@ -27,7 +31,8 @@
   </p>
 </div>
 
-**Languages and Tools:**  
+
+### Languages and Tools:  
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/github.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/idea.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/visual-studio-code.png" alt="bash" width="40" height="40"/></code>
@@ -41,8 +46,6 @@
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/react.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/vue.png" alt="bash" width="40" height="40"/></code>
 
-+ [Personal web](https://chen-huayi.github.io/myWeb/)  
-+ Email: huayi.chen@outlook.com  
 
 </br>
-<img src="https://komarev.com/ghpvc/?username=chen-huayi" /> -->
+<img src="https://komarev.com/ghpvc/?username=chen-huayi" /> 
