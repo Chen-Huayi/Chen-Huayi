@@ -44,7 +44,7 @@
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/js.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/css.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/react.png" alt="bash" width="40" height="40"/></code>
-<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/vue.png" alt="bash" width="40" height="40"/></code>
+<!-- <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/vue.png" alt="bash" width="40" height="40"/></code> -->
 
 
 </br>
