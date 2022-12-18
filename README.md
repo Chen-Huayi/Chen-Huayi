@@ -35,6 +35,7 @@
 ### Languages and Tools:  
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/github.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/idea.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/webstorm.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/visual-studio-code.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/android.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/java.png" alt="bash" width="40" height="40"/></code>
@@ -44,6 +45,10 @@
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/js.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/css.png" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/react.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/nodejs.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/mysql.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/mongodb.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/postman.png" alt="bash" width="40" height="40"/></code>
 <!-- <code><img src="https://github.com/Chen-Huayi/Chen-Huayi/blob/main/img/vue.png" alt="bash" width="40" height="40"/></code> -->
 
 
