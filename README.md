@@ -7,7 +7,8 @@
 <!-- - 💬 Ask me about ... -->
 - 🔗 How to reach me: [LinkedIn](https://www.linkedin.com/in/huayi-chen/)  
 - ✉️ Contact me on: huayi.chen@outlook.com  
-- 🔍 My Personal website: [Chy](https://chen-huayi.github.io/)  
+- 🔍 My Personal website: [Chy](https://chen-huayi.github.io/)
+- 📄 My Publication in [Pattern Recognition and Computer Vision (PRCV) 2024](https://link.springer.com/chapter/10.1007/978-981-97-8792-0_22)
 <!-- - 📫 How to reach me:    -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...  -->
